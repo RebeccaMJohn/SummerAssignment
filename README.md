@@ -13,5 +13,14 @@ Kate used her phpne.
 object: date, total screen time, time of first use, screen on battery usage, most used app, 
 pickups, and notifications. Therefore, I would need 7 fields for each object.
 
-<img width="733" height="1030" alt="image" src="https://github.com/user-attachments/assets/f848d03f-e7ff-4d80-9861-2ea87d710919" />
+<img width="633" height="930" alt="image" src="https://github.com/user-attachments/assets/f848d03f-e7ff-4d80-9861-2ea87d710919" />
+
+**Bullet Points**
+- Date: The date represents the day Kate used her phone. The date is recorded as a double, with any numbers on the left side of the decimal point representing the numerical month (7 = July) and any numbers on the right side of the decimal point representing the number day in the month. For example, 7.1 represents July 1st.
+- Total Screen Time (Minutes): This represents the total amount of minutes Kate was on her phone
+- Time of First Use (Time): This represents the first time Kate used her phone. It is set on a 24hour clock, so 0.00 means she first used her phone at 12:00 AM.
+- Screen On Battery Usage (Minutes): This represents the amount of time the screen has been on while running on battery power. This means that it doesn't represent any time that you were using your phone while it was charging or plugged in.
+- Most Used App: This column shows which app was the most used depending on screen time. In other words, it shows which app had the most screen time
+- Pickups: Represents the number of times Kate picked up her phone that day
+- Notifications: Represents how many notifications/alerts Kate recieved on her phone each day. These are notifications that pass through the "Do Not Disturb" feature that was enabled, so it may not be a true indicator of the amount of notifications she recieved.
 
