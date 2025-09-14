@@ -13,7 +13,7 @@ Kate used her phpne.
 object: date, total screen time, time of first use, screen on battery usage, most used app, 
 pickups, and notifications. Therefore, I would need 7 fields for each object.
 
-<img width="633" height="930" alt="image" src="https://github.com/user-attachments/assets/f848d03f-e7ff-4d80-9861-2ea87d710919" />
+<img width="360" height="500" alt="Screenshot 2025-09-14 at 7 04 01 PM" src="https://github.com/user-attachments/assets/11c14965-0ff1-441c-b511-c0075129c351" />
 
 **Bullet Points**
 - Date: The date represents the day Kate used her phone. The date is recorded as a double, with any numbers on the left side of the decimal point representing the numerical month (7 = July) and any numbers on the right side of the decimal point representing the number day in the month. For example, 7.1 represents July 1st.
